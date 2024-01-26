@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Koshi Province",
+    "districts": [
+      {
+        "name": "Bhojpur",
+        "municipality": ["Bhojpur", "Shadanand"],
+        "vdc": [
+          "Hatuwagadhi",
+          "Ramprasad Rai",
+          "Aamchok",
+          "Tyamke Maiyunmm",
+          "Arun",
+          "Pauwadungma",
+          "Salpasilichho"
+        ]
+      },
+      {
+        "name": "Dhankuta",
+        "municipality": ["Dhankuta", "Pakhribas", "Mahalaxmi"],
+        "vdc": [
+          "Sangurigadhi",
+          "Chaubise",
+          "Khalsa Chhintang Sahidbhumi",
+          "Chhathar Jorpati"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gandaki Province",
+    "districts": [
+      {
+        "name": "tarai",
+        "municipality": ["raj", "hari"],
+        "vdc": [
+          "Phakphokthum",
+          "Mai Jogmai",
+          "Chulachuli",
+          "Rong",
+          "Mangsebung",
+          "Sandakpur"
+        ]
+      },
+      {
+        "name": "Dhankuta",
+        "municipality": [
+          "Jhapa",
+          "Buddhashanti",
+          "Haldibari",
+          "Kachankawal",
+          "Barhadashi",
+          "Gauriganj",
+          "Kamal"
+        ],
+
+        "vdc": [
+          "Mechinagar",
+          "Bhadrapur",
+          "Birtamod",
+          "Arjundhara",
+          "Kankai",
+          "Shivasatakshi",
+          "Gauradha",
+          "Damak"
+        ]
+      }
+    ]
+  }
+]

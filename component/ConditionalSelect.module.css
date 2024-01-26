@@ -1,0 +1,31 @@
+.error {
+    color: red;
+}
+
+.label {
+    display: grid;
+}
+
+.formField {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+    
+}
+
+.individual {
+    padding: 0.5rem 0.3rem;
+    border-radius: 0.3rem;
+}
+
+.button {
+    padding: 0.5rem 2rem;
+    border-radius: 0.3rem;
+    border: none;
+    cursor: pointer;
+    margin: 3rem 0;
+}
+
+.formHandling {
+    margin: 2rem;
+}

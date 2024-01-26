@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Koshi Province",
+    "districts": [
+      {
+        "name": "Bhojpur",
+        "municipality": ["Bhojpur", "Shadanand"],
+        "vdc": [
+          "Hatuwagadhi",
+          "Ramprasad Rai",
+          "Aamchok",
+          "Tyamke Maiyunmm",
+          "Arun",
+          "Pauwadungma",
+          "Salpasilichho"
+        ]
+      },
+      {
+        "name": "Dhankuta",
+        "municipality": ["Dhankuta", "Pakhribas", "Mahalaxmi"],
+        "vdc": [
+          "Sangurigadhi",
+          "Chaubise",
+          "Khalsa Chhintang Sahidbhumi",
+          "Chhathar Jorpati"
+        ]
+      },
+      {
+        "name": "Ilam",
+        "municipality": ["Ilam", "Deumai", "Mai", "Suryodaya"],
+        "vdc": [
+          "Phakphokthum",
+          "Mai Jogmai",
+          "Chulachuli",
+          "Rong",
+          "Mangsebung",
+          "Sandakpur"
+        ]
+      },
+      {
+        "name": "Jhapa",
+        "municipality": [
+          "Mechinagar",
+          "Bhadrapur",
+          "Birtamod",
+          "Arjundhara",
+          "Kankai",
+          "Shivasatakshi",
+          "Gauradha",
+          "Damak"
+        ],
+        "vdc": [
+          "Jhapa",
+          "Buddhashanti",
+          "Haldibari",
+          "Kachankawal",
+          "Barhadashi",
+          "Gauriganj",
+          "Kamal"
+        ]
+      },
+      {
+        "name": "Khotang",
+        "municipality": ["Diktel Rupakot Majhuwagadhi", "Halesi Tuwachung"],
+        "vdc": [
+          "Khotehang",
+          "Diprung",
+          "Aiselukharka",
+          "Jantedhunga",
+          "Kepilasgadhi",
+          "Barahpokhari",
+          "Rawabesi",
+          "Sakela"
+        ]
+      },
+      {
+        "name": "Morang",
+        "municipality": [
+          "Sundarharaicha",
+          "Belbari",
+          "Pathari-Sanischare",
+          "Urlabari",
+          "Rangeli",
+          "Letang",
+          "Ratuwamai",
+          "Sunawarshi"
+        ],
+        "vdc": [
+          "Kerabari",
+          "Miklajung",
+          "Kanepokhari",
+          "Budhiganga",
+          "Gramthan",
+          "Katahari",
+          "Dhanpalthan",
+          "Jahada"
+        ]
+      },
+      {
+        "name": "Okhaldhunga",
+        "municipality": ["Siddhicharan"],
+        "vdc": [
+          "Okhaldhunga",
+          "Andheri Narayansthan",
+          "Baksa",
+          "Balakhu",
+          "Barnalu",
+          "Baruneshwor",
+          "Betinee",
+          "Bhadaure",
+          "Bhussinga",
+          "Bigutar",
+          "Bilandu",
+          "Chyanam",
+          "Diyale",
+          "Fediguth",
+          "Fulbari",
+          "Gamnangtar",
+          "Harkapur",
+          "Jantarkhani",
+          "Jyamire",
+          "Kalikadevi",
+          "Khijikati",
+          "Katunje",
+          "Ketuker",
+          "Khiji",
+          "Chandeshwori",
+          "Khijifalate",
+          "Kuibhir",
+          "Kuntadevi",
+          "Madhavpur",
+          "Mamkha",
+          "Manebhanjyang",
+          "Moli",
+          "Mulkharka",
+          "Narmedeshwor",
+          "Palapu",
+          "Patle",
+          "Salleri",
+          "Serna",
+          "Shreechaur",
+          "Singhadevi",
+          "Sinseri",
+          "Taluwa",
+          "Tarkerabari",
+          "Thakle",
+          "Thoksela",
+          "Thulachhap",
+          "Ubu",
+          "Yasam"
+        ]
+      },
+      {
+        "name": "Panchthar",
+        "municipality": ["Phidim"],
+        "vdc": [
+          "Hilihang",
+          "Kummayak",
+          "Miklajung",
+          "Phalelung",
+          "Phalgunanda",
+          "Tumbewa",
+          "Yangawarak"
+        ]
+      },
+      {
+        "name": "Sankhuwasabha",
+        "municipality": [
+          "Chainpur",
+          "Dharmadevi",
+          "Khandbari",
+          "Madi",
+          "Panchkhapan"
+        ],
+        "vdc": ["Bhotkhola", "Chichila", "Makalu", "Savapokhari", "Silichong"]
+      },
+      {
+        "name": "Solukhumbu",
+        "municipality": ["Solududhkunda"],
+        "vdc": [
+          "Dudhakushika",
+          "Necha Salyan",
+          "Dudhkoshi",
+          "Maha Kulung",
+          "Sotang",
+          "Likhu Pike",
+          "Khumbu Pasanglhamu"
+        ]
+      },
+      {
+        "name": "Sunsari",
+        "municipality": ["Inaruwa", "Duhabi", "Ramdhuni", "Barahachhetra"],
+        "vdc": [
+          "Koshi",
+          "Gadhi",
+          "Barju",
+          "Bhokraha",
+          "Harinagara",
+          "Dewangang"
+        ]
+      },
+      {
+        "name": "Taplejung",
+        "municipality": ["Phungling"],
+        "vdc": [
+          "Aathrai Tribeni",
+          "Sidingwa",
+          "Phaktanglung",
+          "Mikkwakhola",
+          "Meringden",
+          "Maiwakhola",
+          "Pathibhara Yangwarak",
+          "Sirijangha"
+        ]
+      },
+      {
+        "name": "Tehrathum",
+        "municipality": ["Myanglung", "Laligurans"],
+        "vdc": ["Aathrai", "Chhathar", "Phedap", "Menchhayayem"]
+      },
+      {
+        "name": "Udayapur",
+        "municipality": ["Triyuga", "Katari", "Chaudandigadhi", "Belaka"],
+        "vdc": ["Udayapurgadhi", "Rautamai", "Tapli", "Limchungbung"]
+      }
+    ]
+  },
+
+  {
+    "name": "Madhesh Province",
+    "districts": [
+      {
+        "name": "Parsa",
+        "municipality": ["Bahudarmai", "Parsagadhi", "Pokhariya"],
+        "vdc": [
+          "Bindabasini",
+          "Dhobini",
+          "Chhipaharmai",
+          "Jagarnathpur",
+          "Jirbhawani",
+          "Kalikamai",
+          "Pakaha Mainpur",
+          "Paterwa Sugauli",
+          "Sakhuwa Prasauni",
+          "Thori"
+        ]
+      },
+      {
+        "name": "Bara",
+        "municipality": [
+          "Kolhabi",
+          "Nijgadh",
+          "Mahagadhimai",
+          "Simraungadh",
+          "Pacharauta"
+        ],
+        "vdc": [
+          "Pheta",
+          "Bishrampur",
+          "Parasauni",
+          "Adarsh Kotwal",
+          "Karaiyamai",
+          "Devtal",
+          "Parwanipur",
+          "Baragadhi",
+          "Suwarna"
+        ]
+      },
+      {
+        "name": "Rautahat",
+        "municipality": [
+          "Baudhimai",
+          "Brindaban",
+          "Chandrapur",
+          "Dewahi Gonahi",
+          "Gadhimai",
+          "Garuda",
+          "Gaur",
+          "Gujara",
+          "Ishanath",
+          "Katahariya",
+          "Madhav Narayan",
+          "Maulapur",
+          "Paroha",
+          "Phatuwa Bijayapur",
+          "Rajdevi",
+          "Rajpur"
+        ],
+        "vdc": ["Durga Bhagwati", "Yamunamai"]
+      },
+      {
+        "name": "Sarlahi",
+        "municipality": [
+          "Bagmati",
+          "Balara",
+          "Barahathwa",
+          "Godaita",
+          "Harion",
+          "Haripur",
+          "Haripurwa",
+          "Ishworpur",
+          "Kabilasi",
+          "Lalbandi",
+          "Malangwa"
+        ],
+        "vdc": [
+          "Basbariya",
+          "Bishnu",
+          "Brahampuri",
+          "Chakraghatta",
+          "Chandranagar",
+          "Dhankaul",
+          "Kaudena",
+          "Parsa",
+          "Ramnagar"
+        ]
+      },
+      {
+        "name": "Dhanusha",
+        "municipality": [
+          "Chhireshwarnath",
+          "Ganeshman Charanath",
+          "Dhanusadham",
+          "Nagarain",
+          "Mithila",
+          "Bideha",
+          "Sahidnagar",
+          "Sabaila",
+          "Kamala",
+          "Mithila Bihari",
+          "Hansapur"
+        ],
+        "vdc": [
+          "Janaknandani",
+          "Bateshwar",
+          "Mukhiyapatti",
+          "Lakshminya",
+          "Aurahi",
+          "Dhanauji"
+        ]
+      },
+      {
+        "name": "Siraha",
+        "municipality": [
+          "Lahan",
+          "Dhangadhimai",
+          "Siraha",
+          "Golbazar",
+          "Mirchaiya",
+          "Kalyanpur",
+          "Karjanha",
+          "Sukhipur"
+        ],
+        "vdc": [
+          "Bhagwanpur",
+          "Aurahi",
+          "Bishnupur",
+          "Bariyarpatti",
+          "Lakshmipur",
+          "Naraha",
+          "Sakhuwanankar",
+          "Arnama",
+          "Navarajpur"
+        ]
+      },
+      {
+        "name": "Mahottari",
+        "municipality": [
+          "Aurahi",
+          "Balawa",
+          "Bardibas",
+          "Bhangaha",
+          "Gaushala",
+          "Jaleshwor",
+          "Loharpatti",
+          "Manarashiswa",
+          "Matihani",
+          "Ramgopalpur",
+          "Ekdara"
+        ],
+        "vdc": ["Mahottari", "Pipara", "Samsi", "Sonama"]
+      },
+      {
+        "name": "Saptari",
+        "municipality": [
+          "Bodebarsain",
+          "Dakneshwori",
+          "Hanumannagar Kankalini",
+          "Kanchanrup",
+          "Khadak",
+          "Sambhunath",
+          "Surunga",
+          "Rajbiraj"
+        ],
+        "vdc": [
+          "Agnisaira Krishnasavaran",
+          "Balan-Bihul",
+          "Rajgadh",
+          "Bishnupur",
+          "Chhinnamasta",
+          "Mahadeva",
+          "Rupani",
+          "Tilathi Koiladi",
+          "Tirhut"
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Bagmati Province",
+    "districts": [
+      {
+        "name": "Sindhuli",
+        "municipality": ["Kamalamai", "Dudhauli"],
+        "vdc": [
+          "Sunkoshi",
+          "Hariharpur Gadhi",
+          "Tinpatan",
+          "Marin",
+          "Golanjor",
+          "Phikkal",
+          "Ghyanglekh"
+        ]
+      },
+      {
+        "name": "Ramechhap",
+        "municipality": ["Ramechhap", "Manthali"],
+        "vdc": [
+          "Umakunda",
+          "Khandadevi",
+          "Gokulganga",
+          "Doramba",
+          "Likhu",
+          "Sunapati"
+        ]
+      },
+      {
+        "name": "Dolakha",
+        "municipality": ["Bhimeswor", "Jiri"],
+        "vdc": [
+          "Kalinchok",
+          "Melung",
+          "Bigu",
+          "Gaurishankar",
+          "Baiteshwor",
+          "Sailung",
+          "Tamakoshi"
+        ]
+      },
+      {
+        "name": "Bhaktapur",
+        "municipality": [
+          "Bhaktapur",
+          "Changunarayan",
+          "Madhyapur Thimi",
+          "Suryabinayak"
+        ],
+        "vdc": [""]
+      },
+      {
+        "name": "Dhading",
+        "municipality": ["Dhunibeshi", "Nilkantha"],
+        "vdc": [
+          "Khaniyabas",
+          "Gajuri",
+          "Galchhi",
+          "Hangajamuna",
+          "Jwalamukhi",
+          "Thakre",
+          "Netrawati Dabjong",
+          "Benighar Rorang",
+          "Rubi Valley",
+          "Siddhalek",
+          "Tripurasundari"
+        ]
+      },
+      {
+        "name": "Kathmandu",
+        "municipality": [
+          "Budanilakantha",
+          "Chandragiri",
+          "Dakshinkali",
+          "Gokarneshwar",
+          "Kageshwari Manohara",
+          "Kirtipur",
+          "Nagarjun",
+          "Shankharapur",
+          "Tarakeshwar",
+          "Tokha"
+        ],
+        "vdc": [""]
+      },
+      {
+        "name": "Kavrepalanchok",
+        "municipality": [
+          "Dhulikhel",
+          "Banepa",
+          "Panauti",
+          "Panchkhal",
+          "Namobuddha",
+          "Mandandeupur"
+        ],
+        "vdc": [
+          "Khani Khola",
+          "Chauri Deurali",
+          "Temal",
+          "Bethanchok",
+          "Bhumlu",
+          "Mahabharat",
+          "Roshi"
+        ]
+      },
+      {
+        "name": "Lalitpur",
+        "municipality": ["Konjyoson", "Bagmati", "Mahankal"],
+        "vdc": ["Mahalaxmi", "Godawari"]
+      },
+      {
+        "name": "Nuwakot",
+        "municipality": ["Bidur", "Belkotgadhi"],
+        "vdc": [
+          "Kakani",
+          "Panchakanya",
+          "Likhu",
+          "Dupcheshwar",
+          "Shivapuri",
+          "Tadi",
+          "Suryagadhi",
+          "Tarkeshwar",
+          "Kispang",
+          "Myagang"
+        ]
+      },
+      {
+        "name": "Rasuwa",
+        "municipality": [""],
+        "vdc": [
+          "Uttargaya",
+          "Kalika",
+          "Gosaikunda",
+          "Naukunda",
+          "Aamachhodingmo"
+        ]
+      },
+      {
+        "name": "Sindhupalchok",
+        "municipality": ["Chautara Sangachowkgadi", "Bahrabise", "Melamchi"],
+        "vdc": [
+          "Balephi",
+          "Sunkoshi",
+          "Indrawati",
+          "Jugal",
+          "Panchpokhari Thangpal",
+          "Bhotekoshi",
+          "Lisankhu",
+          "Helambu",
+          "Tripurasundari"
+        ]
+      },
+      {
+        "name": "Chitwan",
+        "municipality": ["Kalika", "Khairahani", "Madi", "Ratnanagar", "Rapti"],
+        "vdc": ["Ichchhakamana"]
+      },
+      {
+        "name": "Makwanpur",
+        "municipality": ["Thaha"],
+        "vdc": [
+          "Bhimpedi",
+          "Makawanpurgadhi",
+          "Manahari",
+          "Raksirang",
+          "Bakaiya",
+          "Bagmati",
+          "Kailash",
+          "Indrasarowar"
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Gandaki Province",
+    "districts": [
+      {
+        "name": "Baglung",
+        "municipality": ["Baglung", "Dhorpatan", "Galkot", "Jaimuni"],
+        "vdc": [
+          "Bareng",
+          "Khathekhola",
+          "Taman Khola",
+          "Tara Khola",
+          "Nisikhola",
+          "Badigad"
+        ]
+      },
+      {
+        "name": "Gorkha",
+        "municipality": ["Gorkha", "Palungtar"],
+        "vdc": [
+          "Sulikot",
+          "Siranchowk",
+          "Ajirkot",
+          "Tsum Nubri",
+          "Dharche",
+          "Bhimsen Thapa",
+          "Sahid Lakhan",
+          "Aarughat",
+          "Gandaki"
+        ]
+      },
+      {
+        "name": "Kaski",
+        "municipality": [""],
+        "vdc": ["Annapurna", "Machhapuchchhre", "Madi", "Rupa"]
+      },
+      {
+        "name": "Lamjung",
+        "municipality": ["Besisahar", "Madhaya Nepal", "Rainas", "Sundarbazar"],
+        "vdc": ["Dordi", "Dudhpokhari", "Kaskikwhlosothar", "Marsyandi"]
+      },
+      {
+        "name": "Manang",
+        "municipality": [""],
+        "vdc": ["Chame", "Nason", "Narpa Bhumi", "Manang Ngisyang"]
+      },
+      {
+        "name": "Mustang",
+        "municipality": [""],
+        "vdc": [
+          "Gharpajhong",
+          "Thasang",
+          "Barhagaun Muktichhetra",
+          "Lomanthang",
+          "Lo-Ghekar Damodarkunda"
+        ]
+      },
+      {
+        "name": "Myagdi",
+        "municipality": ["Beni"],
+        "vdc": ["Annapurna", "Dhaulagiri", "Mangala", "Malika", "Raghuganga"]
+      },
+      {
+        "name": "Nawalparasi (East of Bardaghat Susta)",
+        "municipality": ["Kawasoti", "Gaindakot", "Devachuli", "Madhyabindu"],
+        "vdc": ["Baudikali", "Bulingtar", "Binayi Tribeni", "Hupsekot"]
+      },
+      {
+        "name": "Parbat",
+        "municipality": ["Kushma", "Phalewas"],
+        "vdc": ["Jaljala", "Paiyun", "Mahashila", "Modi", "Bihadi"]
+      },
+      {
+        "name": "Syangja",
+        "municipality": [
+          "Galyang",
+          "Chapakot",
+          "Putalibazar",
+          "Bheerkot",
+          "Waling"
+        ],
+        "vdc": [
+          "Arjun Chaupari",
+          "Aandhikhola",
+          "Kaligandaki",
+          "Phedikhola",
+          "Harinas",
+          "Biruwa"
+        ]
+      },
+      {
+        "name": "Tanahun",
+        "municipality": ["Bhanu", "Bhimad", "Byas", "Shuklagandaki"],
+        "vdc": [
+          "Anbu Khaireni",
+          "Devghat",
+          "Bandipur",
+          "Rishing",
+          "Ghiring",
+          "Myagde"
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Lumbini Province",
+    "districts": [
+      {
+        "name": "Kapilvastu",
+        "municipality": [
+          "Kapilvastu",
+          "Banganga",
+          "Buddhabhumi",
+          "Shivaraj",
+          "Krishnanagar",
+          "Maharajgunj"
+        ],
+        "vdc": ["Mayadevi", "Yashodhara", "Suddhodhan", "Bijaynagar"]
+      },
+      {
+        "name": "Nawalparasi (West of Bardaghat Susta)",
+        "municipality": ["Gorkha", "Bardghat", "Ramgram", "Sunwal"],
+        "vdc": ["Susta", "Palhinandan", "Pratappur", "Sarawal"]
+      },
+      {
+        "name": "Rupandehi",
+        "municipality": [
+          "Devdaha",
+          "Lumbini Sanskritik",
+          "Sainamaina",
+          "Siddharthanagar",
+          "Tilottama"
+        ],
+        "vdc": [
+          "Gaidahawa",
+          "Kanchan",
+          "Kotahimai",
+          "Marchawari",
+          "Mayadevi",
+          "Omsatiya",
+          "Rohini",
+          "Sammarimai",
+          "Siyari",
+          "Suddodhan"
+        ]
+      },
+      {
+        "name": "Arghakhanchi",
+        "municipality": ["Sandhikharka", "Sitganga", "Bhumikasthan"],
+        "vdc": ["Chhatradev", "Panini", "Malarani"]
+      },
+      {
+        "name": "Gulmi",
+        "municipality": ["Musikot", "Resunga"],
+        "vdc": [
+          "Ishma",
+          "Kaligandaki",
+          "Gulmi Darbar",
+          "Satyawati",
+          "Chandrakot",
+          "Rurukshetra",
+          "Chhatrakot",
+          "Dhurkot",
+          "Madane",
+          "Malika"
+        ]
+      },
+      {
+        "name": "Palpa",
+        "municipality": ["Tansen", "Rampur"],
+        "vdc": [
+          "Rainadevi",
+          "Ripdikot",
+          "Bagnaskali",
+          "Rambha",
+          "Purbakhola",
+          "Nisdi",
+          "Mathagadi",
+          "Tinahu"
+        ]
+      },
+      {
+        "name": "Dang",
+        "municipality": ["Lamahi"],
+        "vdc": [
+          "Gadhawa",
+          "Rajpur",
+          "Shantinagar",
+          "Rapti",
+          "Banglachuli",
+          "Dangisharan",
+          "Babai"
+        ]
+      },
+      {
+        "name": "Pyuthan",
+        "municipality": ["Pyuthan", "Swargadwari"],
+        "vdc": [
+          "Gaumukhi",
+          "Mandavi",
+          "Sarumarani",
+          "Mallarani",
+          "Naubahini",
+          "Jhimruk",
+          "Airawati"
+        ]
+      },
+      {
+        "name": "Rolpa",
+        "municipality": ["Rolpa"],
+        "vdc": [
+          "Mandwi",
+          "Runtigadhi",
+          "Triveni",
+          "Lungri",
+          "Sunchhahari",
+          "Thabang",
+          "Madi",
+          "Gangadev",
+          "Paribartan"
+        ]
+      },
+      {
+        "name": "Eastern Rukum",
+        "municipality": [""],
+        "vdc": ["Bhume", "Putha Uttarganga", "Sisne"]
+      },
+      {
+        "name": "Banke",
+        "municipality": ["Kohalpur"],
+        "vdc": [
+          "Rapti-Sonari",
+          "Narainapur",
+          "Duduwa",
+          "Janaki",
+          "Khajura",
+          "Baijanath"
+        ]
+      },
+      {
+        "name": "Bardiya",
+        "municipality": [
+          "Gulariya",
+          "Rajapur",
+          "Madhuwan",
+          "Thakurbaba",
+          "Basgadhi",
+          "Barbardiya"
+        ],
+        "vdc": ["Badhaiyatal", "Geruwa"]
+      }
+    ]
+  },
+
+  {
+    "name": "Karnali Province",
+    "districts": [
+      {
+        "name": "Western Rukum",
+        "municipality": ["Musikot", "Chaurjahari", "Aathbiskot"],
+        "vdc": ["Banphikot", "Tribeni", "Sani Bheri"]
+      },
+      {
+        "name": "Salyan",
+        "municipality": ["Shaarda", "Bagchaur", "Bangad Kupinde"],
+        "vdc": [
+          "Kalimati",
+          "Tribeni",
+          "Kapurkot",
+          "Chatreshwari",
+          "Kumakh",
+          "Siddha Kumakh",
+          "Darma"
+        ]
+      },
+      {
+        "name": "Dolpa",
+        "municipality": ["Thuli Bheri", "Tripurasundari"],
+        "vdc": [
+          "Dolpo Buddha",
+          "She Phoksundo",
+          "Jagadulla",
+          "Mudkechula",
+          "Kaike",
+          "Chharka Tangsong"
+        ]
+      },
+      {
+        "name": "Humla",
+        "municipality": [""],
+        "vdc": [
+          "Simkot",
+          "Namkha",
+          "Kharpunath",
+          "Sarkegad",
+          "Chankheli",
+          "Adanchuli",
+          "Tajakot"
+        ]
+      },
+      {
+        "name": "Jumla",
+        "municipality": ["Chandannath"],
+        "vdc": [
+          "Kankasundari",
+          "Sinja",
+          "Hima",
+          "Tila",
+          "Guthichaur",
+          "Tatopani",
+          "Patarasi"
+        ]
+      },
+      {
+        "name": "Kalikot",
+        "municipality": ["Khandachakra", "Raskot", "Tilagufa"],
+        "vdc": [
+          "Pachalijharna",
+          "Sanni Triveni",
+          "Narharinath",
+          "Shubha Kalika",
+          "Mahawai",
+          "Plata"
+        ]
+      },
+      {
+        "name": "Mugu",
+        "municipality": ["Chhayanath Rara"],
+        "vdc": ["Mugum Karmarong", "Soru", "Khatyad"]
+      },
+      {
+        "name": "Surkhet",
+        "municipality": [
+          "Birendrangar",
+          "Bheriganga",
+          "Gurbha Kot",
+          "Pachapuri",
+          "Lekbesi"
+        ],
+        "vdc": ["Chaukune", "Barahatal", "Chingad", "Simta"]
+      },
+      {
+        "name": "Dailekh",
+        "municipality": ["Narayan", "Dullu", "Aathbis", "Chamunda Bindrasaini"],
+        "vdc": [
+          "Thantikandh",
+          "Bhairabi",
+          "Mahabu",
+          "Naumule",
+          "Dungeshwar",
+          "Gurans",
+          "Bhagawatimai"
+        ]
+      },
+      {
+        "name": "Jajarkot",
+        "municipality": ["Bheri", "Chhedagad", "Nalgad"],
+        "vdc": ["Junichande", "Kushe", "Barekot", "Shivalaya"]
+      }
+    ]
+  },
+
+  {
+    "name": "Sudurpashchim Province",
+    "districts": [
+      {
+        "name": "Kailali",
+        "municipality": [
+          "Lamki Chuha",
+          "Tikapur",
+          "Ghodaghodi",
+          "Bhajani",
+          "Godawari",
+          "Gauriganga"
+        ],
+        "vdc": [
+          "Janaki",
+          "Bardagoriya",
+          "Mohanyal",
+          "Kailari",
+          "Joshipur",
+          "Chure"
+        ]
+      },
+      {
+        "name": "Achham",
+        "municipality": [
+          "Mangalsen",
+          "Kamalbazar",
+          "Sanfebagar",
+          "Panchadewal Binayak"
+        ],
+        "vdc": [
+          "Ramaroshan",
+          "Chaurpati",
+          "Turmakhand",
+          "Mellekh",
+          "Dhakari",
+          "Bannigadi Jayagad"
+        ]
+      },
+      {
+        "name": "Doti",
+        "municipality": ["Dipayal Silgadhi", "Shikhar"],
+        "vdc": [
+          "Purbichauki",
+          "Badikedar",
+          "Jorayal",
+          "Sayal",
+          "Aadarsha",
+          "Dr Ki Singh",
+          "Bogatan"
+        ]
+      },
+      {
+        "name": "Bajhang",
+        "municipality": ["Jaya Prithivi", "Bungal"],
+        "vdc": [
+          "Talkot",
+          "Masta",
+          "Khaptadchhanna",
+          "Thalara",
+          "Bittadchir",
+          "Surma",
+          "Chhabis Pathibhera",
+          "Burgathali",
+          "Kedarsyu",
+          "Saipal"
+        ]
+      },
+      {
+        "name": "Bajura",
+        "municipality": ["Badimalika", "Triveni", "Budhiganga", "Budhinanda"],
+        "vdc": [
+          "Gaumul",
+          "Triveni",
+          "Jagnnath",
+          "Swamikartik",
+          "Chhdedaha",
+          "Himali"
+        ]
+      },
+      {
+        "name": "Kanchanpur",
+        "municipality": [
+          "Bedkot",
+          "Belauri",
+          "Bhimdatta",
+          "Mahakali",
+          "Shuklaphanta",
+          "Krishnapur",
+          "Punarbas"
+        ],
+        "vdc": ["Laljhadi", "Beldandi"]
+      },
+      {
+        "name": "Dadeldhura",
+        "municipality": ["Amargadhi", "Parshuram"],
+        "vdc": [
+          "Aalitaal",
+          "Bhageshwar",
+          "Navadurga",
+          "Ajaymeru",
+          "Ganyapadhura"
+        ]
+      },
+      {
+        "name": "Baitadi",
+        "municipality": ["Dasharathchand", "Patan", "Melauli", "Purchaudi"],
+        "vdc": [
+          "Sunarya",
+          "Sigas",
+          "Shivnath",
+          "Pancheshwor",
+          "Dogdakedar",
+          "Dilasaini"
+        ]
+      },
+      {
+        "name": "Darchula",
+        "municipality": ["Mahakali", "Shaliyasikhar"],
+        "vdc": [
+          "Malikarjun",
+          "Apihimal",
+          "Duhun",
+          "Naugad",
+          "Marma",
+          "Lekam",
+          "Vyans"
+        ]
+      }
+    ]
+  }
+]
